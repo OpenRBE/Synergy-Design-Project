@@ -1,7 +1,7 @@
 Collaborative-Design-Project
 ============================
 
-Collaborative design system tools and interface.
+Open source collaborative design system, tools and interface.
 
 This is where all of the magic happens with regard to developing specific solutions for specific problems as well as a creative playground for those looking to experiment with what is already available. Everything that is created with this tool will be done so with an open liscense to be determined based on what is being designed or modified.
 
