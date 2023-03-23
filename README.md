@@ -1,4 +1,4 @@
-Open Synergy
+Synergy Design Project
 ============================
 A collaborative Design Platform for Localized Automated Abundance 
 
