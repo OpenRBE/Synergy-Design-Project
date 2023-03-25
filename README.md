@@ -22,11 +22,14 @@ Open Synergy is a collaborative, open-source platform aimed at empowering commun
    - Resource availability, production capacity, and efficiency optimization
    - GIS, OpenMap data, spatial analysis, visualization, distribution, land use, and infrastructure
    - Objective, data-driven feedback and decentralized user feedback
+   - Initially we will leverage GPT4 and the plugin system to pull data
 
 4. **Accessible Collaborative Design Tools:**
-   - Singular, simplified, web-based interface
+   - Singular, simplified, web-based interface would be ideal
    - Tools for creating, modifying, sharing, and version control
    - Support for AR/VR and other immersive technologies
+   - Support for 3D printing, CNC, and other fabrication methods
+   - Blender is the most likely candidate for design tools
 
 5. **Maximize Automation & Efficiency:**
    - Minimization of waste and resource usage
